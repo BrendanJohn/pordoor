@@ -10,7 +10,7 @@ function App() {
           Welcome to Pordoor.
         </p>
         <p>
-          When it rains. It Pours.
+          When it rains. It pors.
         </p>
 
       </header>
