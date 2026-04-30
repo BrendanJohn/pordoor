@@ -1,4 +1,4 @@
-import logo from './pordoorlogo.png';
+import logo from './spinner.png';
 import './App.css';
 
 function App() {
@@ -13,7 +13,7 @@ function App() {
           When it rains. It pors.
         </p>
           <p>
-          For more information contact pete@pordoor.com
+          For more information contact info@pordoor.com
         </p>
 
       </header>
