@@ -13,7 +13,7 @@ function App() {
           When it rains. It pors.
         </p>
           <p>
-          For more information contact info@pordoor.com
+          For more information contact <a href="mailto:info@pordoor.com">info@pordoor.com</a>
         </p>
 
       </header>
